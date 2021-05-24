@@ -1,6 +1,6 @@
 {
   "name": "expo-draw",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "Drawing library for expo using svg.",
   "main": "index.js",
   "scripts": {
